@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*author     vishal */
 
 public class ATM_Machine{
 
